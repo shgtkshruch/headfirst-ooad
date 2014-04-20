@@ -1,4 +1,5 @@
 public class Bark {
+
   private String sound;
 
   public Bark(String sound) {
